@@ -40,6 +40,8 @@
   {
     position: absolute;
     left: 10px; 
+    color: #a6662c;
+    text-decoration: none;
   }
   .option_div{
     display: flex;
